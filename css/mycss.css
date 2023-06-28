@@ -1,0 +1,16 @@
+ .btn-primary {
+ --bs-btn-bg: #F445C8;
+ --bs-btn-border-color: #F445C8;
+ --bs-btn-hover-bg: #9B45F4;
+  --bs-btn-hover-border-color: #9B45F4;
+}
+
+a {
+  color: var(--bs-link-color);
+  text-decoration: none;
+}
+
+:root {
+--bs-link-color:#000000;
+--bs-link-hover-color: #F445C8;
+}
